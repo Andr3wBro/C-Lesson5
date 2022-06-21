@@ -9,6 +9,7 @@ for(int i = 0; i < array.Length; i++)
 }
 return array;
 }
+
 void printArr(double[] arr)
 {
     for (int i = 0; i < arr.Length; i++)
